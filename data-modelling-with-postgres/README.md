@@ -1,3 +1,5 @@
+![postgres!](https://github.com/mochen862/data-engineering-projects/blob/main/data-modelling-with-postgres/postgres.png)
+
 # Purpose of the Sparkify's database and analytical goals
 
 - Sparkify, a startup, wants to analyse data collected on songs and user activity on the new music streaming app, with a particular focus on what songs the users are listening to
