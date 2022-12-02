@@ -1,4 +1,4 @@
-![aws redshift diagram!](https://github.com/mochen862/data-engineering-projects/blob/main/aws-redshift-project/aws_redshift_diagram.png)
+![aws redshift diagram!](https://github.com/mochen862/data-engineering-projects/blob/main/aws-redshift-project/redshift.png)
 
 # 1 Purpose of Sparkify's sparkifydb database and analytical goals
 
