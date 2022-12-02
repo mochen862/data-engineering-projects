@@ -26,6 +26,7 @@
 - The log files in the dataset you'll be working with are partitioned by year and month. For example, here's a filepath to a file
     - `log_data/2018/11/2018-11-12-events.json`
 - And here's what the log data looks like
+
 ![log data!](https://github.com/mochen862/data-engineering-projects/blob/main/data-modelling-with-postgres/log_data_df.PNG)
         
 # Database schema design and ETL pipeline
