@@ -1,4 +1,4 @@
-![data lake!](https://github.com/mochen862/data-engineering-projects/blob/main/data-lake-ETL-with-Spark/data%20lake.png)
+![spark!](https://github.com/mochen862/data-engineering-projects/blob/main/data-lake-ETL-with-Spark/spark.png)
 
 # 1 Purpose of Sparkify's sparkifydb database and analytical goals
 
