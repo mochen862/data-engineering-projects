@@ -33,6 +33,8 @@
         
 # Database schema design and ETL pipeline
 
+![star schema!](https://github.com/mochen862/data-engineering-projects/blob/main/data-modelling-with-postgres/star_schema.png)
+
 ## Star schema
 
 - the database follows a star schema, with `songplays` as the fact table and `users, songs, artists,` and `time` as the four dimension tables
