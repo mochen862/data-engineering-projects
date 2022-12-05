@@ -30,6 +30,8 @@
 
 ### 2.1.2 Schema for Song Play Analysis
 
+![star schema!](https://github.com/mochen862/data-engineering-projects/blob/main/data-lake-ETL-with-Spark/star_schema.png)
+
 #### Fact table
 1. **songplays** - records in event data associated with song plays i.e. records with page `NextSong`
     - *songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent*
